@@ -1,0 +1,28 @@
+.box{
+
+	position:absolute;
+	margin-left:70px;
+	margin-right:70px;
+	margin-top: 70px;
+
+}
+.pic{
+	height:500px;
+	width:400px;
+	float:left;
+	padding-right: 70px;
+}
+
+.box .imgBox{
+	padding-right: 0px;
+}
+.box .content{
+	padding-left:70px;
+	padding-right:100px;
+	text-align: left;
+	font-size: 16px;
+}
+.box .content .end{
+	font-size: 15px;
+	color: grey;
+}
